@@ -1,7 +1,7 @@
 # GoCubaRateApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
-TO SEE INFORMAL RATES CURRENCY MARKET IN CUBA (REAL TIME)
+TO SEE FORMAL AND INFORMAL RATES CURRENCY MARKET IN CUBA (REAL TIME)
 
 ## Development server
 
